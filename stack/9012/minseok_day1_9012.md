@@ -1,10 +1,6 @@
 # Problem 9012
 
-<<<<<<< HEAD
-## 자료구조, 스택, 문자열
-=======
 ## 자료구조, 스택, 문자열
->>>>>>> 611040689107dd465ab33cd9644fb9c481a3e982
 
 ### 문제 링크
 <https://www.acmicpc.net/problem/9012>
@@ -15,9 +11,54 @@
 3. 입력을 마친 후 `(`의 개수와 `)`의 개수가 같다면 `YES` 다르다면 `NO` 출력
 
 ### 주의할점
-<<<<<<< HEAD
-1. `(`의 개수와 `)`의 개수가 같지만, `())(()`와 같이 VPS가 아닌 경우를 주의.
-    1.2번 방안을 통해 풀이.
-=======
 1. `(`의 개수와 `)`의 개수가 같지만, `())(()`와 같이 VPS가 아닌 경우를 주의.  (2번 방안을 통해 풀이)
->>>>>>> 611040689107dd465ab33cd9644fb9c481a3e982
+
+### code
+```javascript
+'use strict';
+
+function Stack(string) {
+    const array = string.split('');
+    let arr = [];
+    let i = 0;
+    while(1) {
+        if(array[i] === '(') { arr.push(array[i]); }
+        else {
+            if(arr.length <1) {
+                console.log("NO");
+                return;
+            }
+            arr.pop();
+        }
+        i++;
+        if(array.length == i) { break; }
+    }
+    if(arr.length === 0) { console.log("YES"); }
+    else { console.log("NO"); }
+}
+
+const readline = require('readline');
+const rl = readline.createInterface({
+    input : process.stdin,
+    output : process.stdout
+})
+
+let count = -1;
+
+rl.on('line', function (line) {
+    // 몇개의 문장을 입력 받을것인지
+    if(count === -1) {
+        count = parseInt(line);
+        return;
+    }
+    
+    Stack(line);
+
+    count--;
+    // 다 받을 시 종료
+    if (count === 0) {
+        rl.close();
+    }
+}).on('close', function() {
+    process.exit();
+});
