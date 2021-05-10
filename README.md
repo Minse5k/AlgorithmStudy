@@ -15,7 +15,7 @@
 - Github 활용
 - 한문제는 직접 코딩하고 남은 두문제는 논리만 풀이한다.(적은시간 최대한 많은 문제를 접해보기 유이하다고 생각)
 
-
+## :green_book: Day Study
 |     |     직접 코딩     |    브레인 스토밍 1   |    브레인 스토밍 2   |
-| --- | :---------------: || :---------------: | :---------------: |
-| 첫날 | [일곱 난쟁이] (https://www.acmicpc.net/problem/2309) | [괄호] (https://www.acmicpc.net/problem/9012) | [그룹 단어 체커] (https://www.acmicpc.net/problem/1316) |
+| --- | :---------------: | :---------------: | :---------------: |
+| Day1 | [일곱 난쟁이] (https://www.acmicpc.net/problem/2309) | [괄호] (https://www.acmicpc.net/problem/9012) | [그룹 단어 체커] (https://www.acmicpc.net/problem/1316) |
