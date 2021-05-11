@@ -19,3 +19,4 @@
 |     |     직접 코딩     |    브레인 스토밍 1   |    브레인 스토밍 2   |
 | --- | :---------------: | :---------------: | :---------------: |
 | Day1 | [일곱 난쟁이] (https://www.acmicpc.net/problem/2309) | [괄호] (https://www.acmicpc.net/problem/9012) | [그룹 단어 체커] (https://www.acmicpc.net/problem/1316) |
+| Day2 | [N-Queen] (https://www.acmicpc.net/problem/9663) | [덱] (https://www.acmicpc.net/problem/10866) | [N-Queen] (https://www.acmicpc.net/problem/9663) |
