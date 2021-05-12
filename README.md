@@ -20,3 +20,4 @@
 | --- | :---------------: | :---------------: | :---------------: |
 | Day1 | [일곱 난쟁이] (https://www.acmicpc.net/problem/2309) | [괄호] (https://www.acmicpc.net/problem/9012) | [그룹 단어 체커] (https://www.acmicpc.net/problem/1316) |
 | Day2 | [N-Queen] (https://www.acmicpc.net/problem/9663) | [덱] (https://www.acmicpc.net/problem/10866) | [로봇 청소기] (https://www.acmicpc.net/problem/14503) |
+| Day3 | [별찍기 - 10] (https://www.acmicpc.net/problem/2447) | [트리 순회] (https://www.acmicpc.net/problem/1991) | [달팽이] (https://www.acmicpc.net/problem/1013) |
