@@ -44,6 +44,7 @@ function postOrder(tree) {
 
 //노드 삽입
 const tree = new Tree(input[0]);
+
 for (let i = 1; i < input.length; i++) {
   tree.add(input[i]);
 }
