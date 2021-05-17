@@ -76,11 +76,15 @@ rl.on('line', function(line) {
             AC(input, num, arr);
         }
         else {
-            if(line.length === 2) {
-                answer.push('[]');
+            let flag = 0;
+            for(let i = 0; i < input.length; i++) {
+                if(input[i] == 'D') { flag = 1; }
+            }
+            if(flag === 1) {
+               answer.push('error');
             }
             else {
-                answer.push('error');
+                answer.push('[]');
             }
         }
         input.length = 0;
