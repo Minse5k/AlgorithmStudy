@@ -23,4 +23,5 @@
 | Day3 | [하노이 탑 이동 순서] (https://www.acmicpc.net/problem/11729) | [트리 순회] (https://www.acmicpc.net/problem/1991) | [달팽이] (https://www.acmicpc.net/problem/1013) |
 | Day4 | [이진 검색 트리] (https://www.acmicpc.net/problem/5639) | [블랙잭] (https://www.acmicpc.net/problem/2798) | [분산처리] (https://www.acmicpc.net/problem/1009) |
 | Day5 | [피보나치 수 5] (https://www.acmicpc.net/problem/10870) | [프린터 큐] (https://www.acmicpc.net/problem/1966) | [AC] (https://www.acmicpc.net/problem/5430) |
-| Day6 | [1로 만들기] (https://www.acmicpc.net/problem/1463) | [2xn 타일링] (https://www.acmicpc.net/problem/11726) [2xn 타일링2] (https://www.acmicpc.net/problem/11727) | [1, 2, 3 더하기] (https://www.acmicpc.net/problem/9095)|
+| Day6 | [1로 만들기] (https://www.acmicpc.net/problem/1463) | [2xn 타일링] (https://www.acmicpc.net/problem/11726) [2xn 타일링2] (https://www.acmicpc.net/problem/11727) | [1, 2, 3 더하기] (https://www.acmicpc.net/problem/9095) |
+| Day7 | [1, 2, 3 더하기 3] (https://www.acmicpc.net/problem/15988) | [동물원] (https://www.acmicpc.net/problem/1309) [오르막 수] (https://www.acmicpc.net/problem/11727) | [스티커] (https://www.acmicpc.net/problem/9465) |
