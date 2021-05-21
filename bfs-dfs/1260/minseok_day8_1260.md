@@ -64,11 +64,13 @@ function dfs(v) {
             dfs(graph[v][i]);
         }
     }
+    /*
     graph[v].forEach((node) => {
         if (!visited[node]) {
           dfs(node);
         }
     });
+    */
 }
 
 function bfs(v) {
