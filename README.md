@@ -26,3 +26,4 @@
 | Day6 | [1로 만들기] (https://www.acmicpc.net/problem/1463) | [2xn 타일링] (https://www.acmicpc.net/problem/11726) [2xn 타일링2] (https://www.acmicpc.net/problem/11727) | [1, 2, 3 더하기] (https://www.acmicpc.net/problem/9095) |
 | Day7 | [1, 2, 3 더하기 3] (https://www.acmicpc.net/problem/15988) | [동물원] (https://www.acmicpc.net/problem/1309) [오르막 수] (https://www.acmicpc.net/problem/11057) | [스티커] (https://www.acmicpc.net/problem/9465) |
 | Day8 | [DFS와 BFS] (https://www.acmicpc.net/problem/1260) | [바이러스] (https://www.acmicpc.net/problem/2602) | [단지번호붙이기] (https://www.acmicpc.net/problem/2667) |
+| Day9 | [숨바꼭질] (https://www.acmicpc.net/problem/1697) | [뱀과 사다리 게임] (https://www.acmicpc.net/problem/16928) | [토마토] (https://www.acmicpc.net/problem/7576) |
