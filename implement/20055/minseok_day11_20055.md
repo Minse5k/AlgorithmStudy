@@ -6,7 +6,7 @@
 <https://www.acmicpc.net/problem/20055>
 
 ### solved
-
+1. 
 
 ### 주의할점
 
@@ -34,7 +34,7 @@ function conveyMove(rob, dur) {
 }
 function robotMove(rob, dur) {
     if(rob[n-1] === true) { rob[n-1] = false; } // n번째칸 로봇 있을 시 하차
-
+    
     for(let i = n - 2; i > 0; i--) {
         if(rob[i] === true && dur[i+1] > 0 && rob[i+1] === false) {
             rob[i+1] = true;
