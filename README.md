@@ -29,3 +29,4 @@
 | Day9 | [숨바꼭질] (https://www.acmicpc.net/problem/1697) | [뱀과 사다리 게임] (https://www.acmicpc.net/problem/16928) | [토마토] (https://www.acmicpc.net/problem/7576) |
 | Day10 | [욕심쟁이 판다] (https://www.acmicpc.net/problem/1937) | [이모티콘] (https://www.acmicpc.net/problem/14226) | [알고스팟] (https://www.acmicpc.net/problem/1261) |
 | Day11 | [후보 추천하기] (https://www.acmicpc.net/problem/1713) | [컨베이어 벨트 위의 로봇] (https://www.acmicpc.net/problem/20055) | [이차원 배열과 연산] (https://www.acmicpc.net/problem/17140) |
+| Day12 | [나무 조각] (https://www.acmicpc.net/problem/2947) | [킹] (https://www.acmicpc.net/problem/1063) | [스위치 켜고 끄기] (https://www.acmicpc.net/problem/1244) |
