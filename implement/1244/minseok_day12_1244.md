@@ -37,18 +37,14 @@ function actionGirl(n) {
         if(switchArray[x] === switchArray[y]) {
             tmp++;
         }
-        if(tmp > 0) {
-            if(switchArray[x] !== switchArray[y]) {
-                x++;
-                y--;
-                break;
-            }
+        else {
+            break;
         }
         x--;
         y++;
     }
-    if(x<0) {x++;}
-    if(y>=switchNum) {y--;}
+    x++;
+    y--;
     if(tmp === 0) {
         if(switchArray[n-1] === 1) {
             switchArray[n-1] = 0;
@@ -101,7 +97,7 @@ rl.on('line', function(line) {
             actionGirl(num);
         }
     }
-    if(switchNum > 3) {
+    if(switchNum > 20) {
         while(switchArray.length > 20) {
             let arr = switchArray.slice(0,20);
             switchArray.splice(0, 20);
