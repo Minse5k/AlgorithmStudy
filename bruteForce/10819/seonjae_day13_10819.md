@@ -1,6 +1,4 @@
-# 10972 다음 순열
-
-<hr />
+# 10972 차이를 최대로
 
 ### 나의풀이
 
@@ -119,4 +117,4 @@ console.log(max);
 1. 10972번과 다르게 순열로 풀생각을 못함..
 
 > **출처**  
-> https://kwanghyuk.tistory.com/25
+> https://yabmoons.tistory.com/98
