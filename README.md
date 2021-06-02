@@ -32,4 +32,5 @@
 | Day12 | [나무 조각] (https://www.acmicpc.net/problem/2947) | [킹] (https://www.acmicpc.net/problem/1063) | [스위치 켜고 끄기] (https://www.acmicpc.net/problem/1244) |
 | Day13 | [다음 순열] (https://www.acmicpc.net/problem/10972) | [차이를 최대로] (https://www.acmicpc.net/problem/10819) | [외판원 순회 2] (https://www.acmicpc.net/problem/10971) |
 | Day14 | [동전 0] (https://www.acmicpc.net/problem/11047) | [회의실 배정] (https://www.acmicpc.net/problem/1931) | [단어 수학] (https://www.acmicpc.net/problem/1339) |
-| Day15 | [로또] (https://www.acmicpc.net/problem/6603) | [부등호] (https://www.acmicpc.net/problem/2529) | [연산자 끼워넣기] (https://www.acmicpc.net/problem/14888      ) |
+| Day15 | [로또] (https://www.acmicpc.net/problem/6603) | [부등호] (https://www.acmicpc.net/problem/2529) | [연산자 끼워넣기] (https://www.acmicpc.net/problem/14888) |
+| Day16 | [잃어버린 괄호] (https://www.acmicpc.net/problem/6603) | [부등호] (https://www.acmicpc.net/problem/2529) | [카드 정렬하기] (https://www.acmicpc.net/problem/1715) |
