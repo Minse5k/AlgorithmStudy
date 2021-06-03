@@ -18,3 +18,4 @@ for(let i=1; i<n; i++){
     max = dp[i] > max ? dp[i] : max;
 }
 console.log(max);
+//참조: https://www.youtube.com/watch?v=Wn4cxkuUpwg
