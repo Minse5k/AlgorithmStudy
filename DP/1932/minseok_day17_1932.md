@@ -3,9 +3,10 @@
 ## DP
 
 ### 문제 링크
-<https://www.acmicpc.net/problem/1932>
+<https://www.acmicpc.net/problem/>
 
 ### solved
+
 
 ### 주의할점
 
