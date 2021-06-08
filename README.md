@@ -37,3 +37,4 @@
 | Day17 | [가장 큰 증가 부분 수열] (https://www.acmicpc.net/problem/11055) | [정수 삼각형] (https://www.acmicpc.net/problem/1932) | [연속합 2] (https://www.acmicpc.net/problem/13398) |
 | Day18 | [이분 그래프] (https://www.acmicpc.net/problem/1707) | [Two Dots] (https://www.acmicpc.net/problem/16929) | [서울 지하철 2호선] (https://www.acmicpc.net/problem/16947) |
 | Day19 | [봄버맨] (https://www.acmicpc.net/problem/16918) | [MooTube (Silver)] (https://www.acmicpc.net/problem/15591) | [소가 길을 건너간 이유6] (https://www.acmicpc.net/problem/14466) |
+| Day20 | [LCS 2] (https://www.acmicpc.net/problem/9252) | [돌 그룹] (https://www.acmicpc.net/problem/12886) | [단어 섞기] (https://www.acmicpc.net/problem/9177) |
