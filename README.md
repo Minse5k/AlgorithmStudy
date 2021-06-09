@@ -38,3 +38,4 @@
 | Day18 | [이분 그래프] (https://www.acmicpc.net/problem/1707) | [Two Dots] (https://www.acmicpc.net/problem/16929) | [서울 지하철 2호선] (https://www.acmicpc.net/problem/16947) |
 | Day19 | [봄버맨] (https://www.acmicpc.net/problem/16918) | [MooTube (Silver)] (https://www.acmicpc.net/problem/15591) | [소가 길을 건너간 이유6] (https://www.acmicpc.net/problem/14466) |
 | Day20 | [LCS 2] (https://www.acmicpc.net/problem/9252) | [돌 그룹] (https://www.acmicpc.net/problem/12886) | [단어 섞기] (https://www.acmicpc.net/problem/9177) |
+| Day21 | [보드 점프] (https://www.acmicpc.net/problem/3372) | [주사위 굴리기] (https://www.acmicpc.net/problem/14499) | [테트로미노] (https://www.acmicpc.net/problem/14500) |
