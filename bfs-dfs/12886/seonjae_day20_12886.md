@@ -150,10 +150,10 @@ if (sum % 3 !== 0) {
 }
 ```
 
-![결과](https://github.com/Minse5k/AlgorithmStudy/tree/main/bfs-dfs/12886/seonjae_result.PNG)
 
 ### 주의할점
 
 1. 3개를 비교하는것이 아닌 두개로 비교한다는것에 중점을 둘것...(처음에 visited를 3차원배열로 선언해서 500^3개만큼 메모리차지해서 메모리초과나옴)
 2. 합이 3으로 나눴을 때 나머지가 0을 판단하는 조건문
 3. bfs함수에서 a,b로 비구조할당하고 add 배열을 만들때 헷갈리는것 주의
+<img src = "seonjae_result.PNG">
