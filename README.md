@@ -39,3 +39,4 @@
 | Day19 | [봄버맨] (https://www.acmicpc.net/problem/16918) | [MooTube (Silver)] (https://www.acmicpc.net/problem/15591) | [소가 길을 건너간 이유6] (https://www.acmicpc.net/problem/14466) |
 | Day20 | [LCS 2] (https://www.acmicpc.net/problem/9252) | [돌 그룹] (https://www.acmicpc.net/problem/12886) | [단어 섞기] (https://www.acmicpc.net/problem/9177) |
 | Day21 | [보드 점프] (https://www.acmicpc.net/problem/3372) | [주사위 굴리기] (https://www.acmicpc.net/problem/14499) | [테트로미노] (https://www.acmicpc.net/problem/14500) |
+| Day22 | [Fly me to the Alpha Centauri] (https://www.acmicpc.net/problem/1011) | [점프] (https://www.acmicpc.net/problem/1890) | [연구소] (https://www.acmicpc.net/problem/14502) |
