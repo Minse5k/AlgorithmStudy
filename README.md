@@ -18,25 +18,25 @@
 ## :green_book: Day Study
 |     |     직접 코딩     |    브레인 스토밍 1   |    브레인 스토밍 2   |
 | --- | :---------------: | :---------------: | :---------------: |
-| Day1 | [일곱 난쟁이] (https://www.acmicpc.net/problem/2309) | [괄호] (https://www.acmicpc.net/problem/9012) | [그룹 단어 체커] (https://www.acmicpc.net/problem/1316) |
-| Day2 | [N-Queen] (https://www.acmicpc.net/problem/9663) | [덱] (https://www.acmicpc.net/problem/10866) | [로봇 청소기] (https://www.acmicpc.net/problem/14503) |
-| Day3 | [하노이 탑 이동 순서] (https://www.acmicpc.net/problem/11729) | [트리 순회] (https://www.acmicpc.net/problem/1991) | [달팽이] (https://www.acmicpc.net/problem/1013) |
-| Day4 | [이진 검색 트리] (https://www.acmicpc.net/problem/5639) | [블랙잭] (https://www.acmicpc.net/problem/2798) | [분산처리] (https://www.acmicpc.net/problem/1009) |
-| Day5 | [피보나치 수 5] (https://www.acmicpc.net/problem/10870) | [프린터 큐] (https://www.acmicpc.net/problem/1966) | [AC] (https://www.acmicpc.net/problem/5430) |
-| Day6 | [1로 만들기] (https://www.acmicpc.net/problem/1463) | [2xn 타일링] (https://www.acmicpc.net/problem/11726) [2xn 타일링2] (https://www.acmicpc.net/problem/11727) | [1, 2, 3 더하기] (https://www.acmicpc.net/problem/9095) |
-| Day7 | [1, 2, 3 더하기 3] (https://www.acmicpc.net/problem/15988) | [동물원] (https://www.acmicpc.net/problem/1309) [오르막 수] (https://www.acmicpc.net/problem/11057) | [스티커] (https://www.acmicpc.net/problem/9465) |
-| Day8 | [DFS와 BFS] (https://www.acmicpc.net/problem/1260) | [바이러스] (https://www.acmicpc.net/problem/2602) | [단지번호붙이기] (https://www.acmicpc.net/problem/2667) |
-| Day9 | [숨바꼭질] (https://www.acmicpc.net/problem/1697) | [뱀과 사다리 게임] (https://www.acmicpc.net/problem/16928) | [토마토] (https://www.acmicpc.net/problem/7576) |
-| Day10 | [욕심쟁이 판다] (https://www.acmicpc.net/problem/1937) | [이모티콘] (https://www.acmicpc.net/problem/14226) | [알고스팟] (https://www.acmicpc.net/problem/1261) |
-| Day11 | [후보 추천하기] (https://www.acmicpc.net/problem/1713) | [컨베이어 벨트 위의 로봇] (https://www.acmicpc.net/problem/20055) | [이차원 배열과 연산] (https://www.acmicpc.net/problem/17140) |
-| Day12 | [나무 조각] (https://www.acmicpc.net/problem/2947) | [킹] (https://www.acmicpc.net/problem/1063) | [스위치 켜고 끄기] (https://www.acmicpc.net/problem/1244) |
-| Day13 | [다음 순열] (https://www.acmicpc.net/problem/10972) | [차이를 최대로] (https://www.acmicpc.net/problem/10819) | [외판원 순회 2] (https://www.acmicpc.net/problem/10971) |
-| Day14 | [동전 0] (https://www.acmicpc.net/problem/11047) | [회의실 배정] (https://www.acmicpc.net/problem/1931) | [단어 수학] (https://www.acmicpc.net/problem/1339) |
-| Day15 | [로또] (https://www.acmicpc.net/problem/6603) | [부등호] (https://www.acmicpc.net/problem/2529) | [연산자 끼워넣기] (https://www.acmicpc.net/problem/14888) |
-| Day16 | [잃어버린 괄호] (https://www.acmicpc.net/problem/1541) | [행렬] (https://www.acmicpc.net/problem/1080) | [카드 정렬하기] (https://www.acmicpc.net/problem/1715) |
-| Day17 | [가장 큰 증가 부분 수열] (https://www.acmicpc.net/problem/11055) | [정수 삼각형] (https://www.acmicpc.net/problem/1932) | [연속합 2] (https://www.acmicpc.net/problem/13398) |
-| Day18 | [이분 그래프] (https://www.acmicpc.net/problem/1707) | [Two Dots] (https://www.acmicpc.net/problem/16929) | [서울 지하철 2호선] (https://www.acmicpc.net/problem/16947) |
-| Day19 | [봄버맨] (https://www.acmicpc.net/problem/16918) | [MooTube (Silver)] (https://www.acmicpc.net/problem/15591) | [소가 길을 건너간 이유6] (https://www.acmicpc.net/problem/14466) |
-| Day20 | [LCS 2] (https://www.acmicpc.net/problem/9252) | [돌 그룹] (https://www.acmicpc.net/problem/12886) | [단어 섞기] (https://www.acmicpc.net/problem/9177) |
-| Day21 | [보드 점프] (https://www.acmicpc.net/problem/3372) | [주사위 굴리기] (https://www.acmicpc.net/problem/14499) | [테트로미노] (https://www.acmicpc.net/problem/14500) |
-| Day22 | [Fly me to the Alpha Centauri] (https://www.acmicpc.net/problem/1011) | [점프] (https://www.acmicpc.net/problem/1890) | [연구소] (https://www.acmicpc.net/problem/14502) |
+| Day1 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [괄호](https://www.acmicpc.net/problem/9012) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) |
+| Day2 | [N-Queen](https://www.acmicpc.net/problem/9663) | [덱](https://www.acmicpc.net/problem/10866) | [로봇 청소기](https://www.acmicpc.net/problem/14503) |
+| Day3 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [트리 순회](https://www.acmicpc.net/problem/1991) | [달팽이](https://www.acmicpc.net/problem/1013) |
+| Day4 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [블랙잭](https://www.acmicpc.net/problem/2798) | [분산처리](https://www.acmicpc.net/problem/1009) |
+| Day5 | [피보나치 수 5](https://www.acmicpc.net/problem/10870) | [프린터 큐](https://www.acmicpc.net/problem/1966) | [AC](https://www.acmicpc.net/problem/5430) |
+| Day6 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [2xn 타일링](https://www.acmicpc.net/problem/11726) [2xn 타일링2](https://www.acmicpc.net/problem/11727) | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |
+| Day7 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [동물원](https://www.acmicpc.net/problem/1309) [오르막 수](https://www.acmicpc.net/problem/11057) | [스티커](https://www.acmicpc.net/problem/9465) |
+| Day8 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [바이러스](https://www.acmicpc.net/problem/2602) | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |
+| Day9 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [토마토](https://www.acmicpc.net/problem/7576) |
+| Day10 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | [이모티콘](https://www.acmicpc.net/problem/14226) | [알고스팟](https://www.acmicpc.net/problem/1261) |
+| Day11 | [후보 추천하기](https://www.acmicpc.net/problem/1713) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) |
+| Day12 | [나무 조각](https://www.acmicpc.net/problem/2947) | [킹](https://www.acmicpc.net/problem/1063) | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
+| Day13 | [다음 순열](https://www.acmicpc.net/problem/10972) | [차이를 최대로](https://www.acmicpc.net/problem/10819) | [외판원 순회 2](https://www.acmicpc.net/problem/10971) |
+| Day14 | [동전 0](https://www.acmicpc.net/problem/11047) | [회의실 배정](https://www.acmicpc.net/problem/1931) | [단어 수학](https://www.acmicpc.net/problem/1339) |
+| Day15 | [로또](https://www.acmicpc.net/problem/6603) | [부등호](https://www.acmicpc.net/problem/2529) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
+| Day16 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [행렬](https://www.acmicpc.net/problem/1080) | [카드 정렬하기](https://www.acmicpc.net/problem/1715) |
+| Day17 | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [연속합 2](https://www.acmicpc.net/problem/13398) |
+| Day18 | [이분 그래프](https://www.acmicpc.net/problem/1707) | [Two Dots](https://www.acmicpc.net/problem/16929) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
+| Day19 | [봄버맨](https://www.acmicpc.net/problem/16918) | [MooTube (Silver)](https://www.acmicpc.net/problem/15591) | [소가 길을 건너간 이유6](https://www.acmicpc.net/problem/14466) |
+| Day20 | [LCS 2](https://www.acmicpc.net/problem/9252) | [돌 그룹](https://www.acmicpc.net/problem/12886) | [단어 섞기](https://www.acmicpc.net/problem/9177) |
+| Day21 | [보드 점프](https://www.acmicpc.net/problem/3372) | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [테트로미노](https://www.acmicpc.net/problem/14500) |
+| Day22 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | [점프](https://www.acmicpc.net/problem/1890) | [연구소](https://www.acmicpc.net/problem/14502) |
