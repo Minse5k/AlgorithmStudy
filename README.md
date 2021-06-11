@@ -4,6 +4,7 @@
 ## 알고리즘 사이트
 > 스터디는 다음 알고리즘 사이트에 있는 문제로 진행한다.
 [BAEKJOON](https://www.acmicpc.net/)
+[programmers](https://programmers.co.kr/)
 
 ## :ledger: 진행방식
 
@@ -40,3 +41,5 @@
 | Day20 | [LCS 2](https://www.acmicpc.net/problem/9252) | [돌 그룹](https://www.acmicpc.net/problem/12886) | [단어 섞기](https://www.acmicpc.net/problem/9177) |
 | Day21 | [보드 점프](https://www.acmicpc.net/problem/3372) | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [테트로미노](https://www.acmicpc.net/problem/14500) |
 | Day22 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | [점프](https://www.acmicpc.net/problem/1890) | [연구소](https://www.acmicpc.net/problem/14502) |
+| Day23 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |
+
