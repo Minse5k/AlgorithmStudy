@@ -98,6 +98,7 @@ function tumble(cmd, top, bottom) {
 function solution(k) {
   createMap(inputs);
   const cmd = inputs[n].split(" ");
+  //위 아래
   const direction = [0, 2];
   for (let i = 0; i < k; i++) {
     const [top, bottom] = tumble(cmd[i], direction[0], direction[1]);

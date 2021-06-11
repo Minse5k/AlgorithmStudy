@@ -5,13 +5,16 @@ const [n, m] = inputs
   .split(" ")
   .map((v) => parseInt(v));
 const board = [];
+
 function setBoard() {
   for (let i = 0; i < n; i++) {
     const add = inputs[i].split(" ").map((v) => parseInt(v));
     board.push(add);
   }
 }
+
 solution();
+
 function solution() {
   setBoard();
   let max = 0;
@@ -41,6 +44,7 @@ function solution() {
   }
   console.log(max);
 }
+
 //2X3
 function tetromino1(x, y) {
   //ㄱ
