@@ -27,6 +27,7 @@ function solution(records) {
       }
     }
   });
+
   const answer = results.map((result) =>
     [recodeMap.get(result.id), result.command].join("")
   );
