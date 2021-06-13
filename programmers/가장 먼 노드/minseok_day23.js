@@ -1,7 +1,7 @@
 function createGraph(n, edge) {
     return edge.reduce(
         (graph, value) => {
-        const [start, end] = [value[0], value[1]];
+        const [start, end] = value;
         
         graph[start].push(end);
         graph[end].push(start);
