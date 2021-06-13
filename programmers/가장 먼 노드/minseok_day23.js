@@ -11,6 +11,7 @@ function createGraph(n, edge) {
 
 function findMaxEdgeCount(distance) {
     const maxNum = Math.max(...distance);
+    
     return distance.reduce(
         (count, value) => {
         if(value === maxNum) count++;
