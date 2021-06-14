@@ -42,4 +42,4 @@
 | Day21 | [보드 점프](https://www.acmicpc.net/problem/3372) | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [테트로미노](https://www.acmicpc.net/problem/14500) |
 | Day22 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | [점프](https://www.acmicpc.net/problem/1890) | [연구소](https://www.acmicpc.net/problem/14502) |
 | Day23 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |
-
+| Day24 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) / [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)| [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) / [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) |
