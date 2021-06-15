@@ -6,15 +6,24 @@ function solution(n, vertexs) {
 }
 
 function createGraph(n, vertexs) {
-  const graph = new Array(n + 1).fill(null).map((node) => []);
-
-  vertexs.forEach((vertex) => {
-    const [nodeA, nodeB] = vertex;
-    graph[nodeA].push(nodeB);
-    graph[nodeB].push(nodeA);
-  });
-
-  return graph;
+  // 리팩토링전
+  // const graph = new Array(n + 1).fill(null).map((node) => []);
+  // vertexs.forEach((vertex) => {
+  //   const [nodeA, nodeB] = vertex;
+  //   graph[nodeA].push(nodeB);
+  //   graph[nodeB].push(nodeA);
+  // });
+  // return graph;
+  //forEach문보단 reduce로 구현해보기
+  return vertexs.reduce(
+    (graph, vertex) => {
+      const [nodeA, nodeB] = vertex;
+      graph[nodeA].push(nodeB);
+      graph[nodeB].push(nodeA);
+      return graph;
+    },
+    new Array(n + 1).fill(null).map((node) => [])
+  );
 }
 
 function bfs(node, n, graph) {
@@ -36,10 +45,11 @@ function bfs(node, n, graph) {
         if (visited[next]) continue;
 
         visited[next] = true;
-        count++;
         queue.push(next);
       }
     }
   }
   return count;
 }
+
+//깊이에 따른 노드개수를 출력하기 위해 count++은 상관없는 변수이므로 삭제
