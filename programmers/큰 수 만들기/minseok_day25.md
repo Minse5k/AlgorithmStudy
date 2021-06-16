@@ -12,7 +12,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42883#
 1. 같은 문자가 계속 나오는 경우 마지막에 예외처리 해주었다.
 
 ### 의문점
-1. 잘못된 code의 방식으로 사용하면 매우 긴 경우 시간이 초과된다.
+1. 잘못된 code의 방식으로 사용하면 매우 긴 경우 시간이 초과된다. >> 9가 문자열이란걸 잊고 풀이해 틀렸던거였다..
 2. `stack`으로 다시 생각해서 풀이하였다.
 
 ### 정답 code
@@ -60,7 +60,7 @@ function solution(number, k) {
     return (stack.join(''));
 }
 ```
-### 잘못된 code
+### 다른 방법의 code
 ```javascript
     let maxNum = numberArray[0];
     let maxIdx = 0;
@@ -71,10 +71,10 @@ function solution(number, k) {
         maxNum = numberArray[start];
         maxIdx = start;
         for(let j = start; j <= k + i; j++) {
-            if(maxNum < numberArray[j]) {
+            if(maxNum === '9') break;
+            if(maxNum >= numberArray[j]) continue;
                 maxNum = numberArray[j];
                 maxIdx = j;
-            }
         }
         start = maxIdx + 1;
         answer += maxNum;
