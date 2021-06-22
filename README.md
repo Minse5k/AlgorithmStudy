@@ -48,3 +48,4 @@
 | Day27 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
 | Day28 | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
 | Day29 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+| Day30 | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [가장 큰 정사각형](https://programmers.co.kr/learn/courses/30/lessons/12905#) | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)
