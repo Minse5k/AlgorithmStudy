@@ -2,6 +2,7 @@
 
 ## 결과: 시간초과로 못품
 원래 풀었다는 가정하의 코드
+
 ```javascript
 function solution(arr) {
   const answer = compressArr([0, 0], [arr.length, arr.length], arr);
