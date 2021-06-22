@@ -62,7 +62,7 @@ function solution(board) {
   let max = getMaxBase(board);
   max = researchSquare({ board, row, column, max });
 
-  return Math.pow(max, 2);
+  return max;
 }
 
 function getMaxBase({ board, row, column }) {
@@ -79,12 +79,13 @@ function researchSquare({ board, row, column, max }) {
   for (let i = 1; i < row; i++) {
     for (let j = 1; j < column; j++) {
       if (board[i][j] === 0) continue;
-      
-      board[i][j] = Math.min(board[i - 1][j - 1], board[i - 1][j], board[i][j - 1]) + 1;
+
+      board[i][j] =
+        Math.min(board[i - 1][j - 1], board[i - 1][j], board[i][j - 1]) + 1;
       max = Math.max(max, board[i][j]);
     }
   }
 
-  return max;
+  return Math.pow(max, 2);
 }
 ```
