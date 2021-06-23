@@ -1,41 +1,65 @@
-function solution(N, roads, K) {
-  const { town, visited } = getTool(N, roads);
+function solution(n, roads, k) {
+  const graph = getGraph(n, roads);
+  const shortesDistance = getShortesDist(n, graph);
 
-  const answer = dfs(1, town, visited, K);
-
-  return answer.size;
+  const count = getCount(shortesDistance, n, k);
+  return count;
 }
 
-function getTool(N, roads) {
-  const town = roads.reduce(
+function getGraph(n, roads) {
+  return roads.reduce(
     (graph, road) => {
-      const [start, end, time] = road;
-      graph[start].push([end, time]);
-      graph[end].push([start, time]);
-
+      const [from, to, time] = road;
+      graph[from].push([to, time]);
+      graph[to].push([from, time]);
       return graph;
     },
-    new Array(N + 1).fill(null).map((v) => [])
+    Array.from(Array(n + 1), () => [])
   );
-  const visited = new Array(N + 1).fill(false);
-  return { town, visited };
 }
 
-function dfs(start, town, visited, K) {
-  const results = new Set();
-  results.add(start);
-  visited[start] = true;
-  for (const next of town[start]) {
-    const [node, time] = next;
-    if (visited[node]) continue;
-    if (K < time) continue;
-    visited[node] = true;
-    const possible = dfs(node, town, visited, K - time);
-    [...possible].forEach((result) => {
-      results.add(result);
-    });
-    visited[node] = false;
+function getShortesDist(n, graph) {
+  const distance = new Array(n + 1).fill(0);
+  const queue = [1];
+   
+  // let point = 0;
+  //     while(queue.length > point){
+  //         const end = queue.length;
+  //         while(end > point){
+  //             const nowNode = queue[point++];
+
+  //             for(const next of graph[nowNode]){
+  //                 const [nextNode, time] = next;
+  //                 if(distance[nextNode] !== 0 && distance[nextNode] <= distance[nowNode] + time)
+  //                     continue;
+  //                 distance[nextNode] = distance[nowNode] + time;
+  //                 queue.push(nextNode);
+
+  //             }
+  //         }
+  //     }
+  while (queue.length > 0) {
+    const nowNode = queue.shift();
+
+    for (const next of graph[nowNode]) {
+      const [nextNode, time] = next;
+      if (
+        distance[nextNode] !== 0 &&
+        distance[nextNode] <= distance[nowNode] + time
+      )
+        continue;
+      distance[nextNode] = distance[nowNode] + time;
+      queue.push(nextNode);
+    }
   }
 
-  return results;
+  return distance;
+}
+
+function getCount(distance, n, k) {
+  let count = 0;
+  for (let i = 2; i < n + 1; i++) {
+    if (distance[i] <= k) count++;
+  }
+  return count + 1;
 }
