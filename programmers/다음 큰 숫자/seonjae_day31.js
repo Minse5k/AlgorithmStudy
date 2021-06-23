@@ -28,7 +28,8 @@ function getNextBinary(binary) {
     }
     if (findZero >= 0) break;
   }
-
+  // if(findZero === -1) return [...binary.slice(0,len-1).reverse(), 0, binary[len-1]];
+  //reverse() 안해줘서 틀림
   if (findZero === -1) return [...binary.slice(0, len - 1), 0, binary[len - 1]];
 
   binary[findOne] = 0;
