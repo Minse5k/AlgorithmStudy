@@ -1,83 +1,46 @@
-// const fs = require("fs");
-// // const inputs = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
-// const inputs = fs.readFileSync("input").toString().trim().split("\r\n");
-
 function solution(numbers) {
-    const answer = [];
-    numbers.forEach((number) => {
-      const minimumNumber = getMinimumNumber(number);
-      answer.push(minimumNumber);
-    });
-  
-    return answer;
-  }
-  //변환
-  function changeBit(number) {
-    const result = [];
-    while (number !== 0) {
-      const bit = number % 2;
-      result.push(bit);
-      number = Math.floor(number / 2);
+  const answer = numbers.reduce((result, number) => {
+    if (number % 2 === 0) {
+      result.push(number + 1);
+      return result;
     }
+    const binary = number.toString(2).split("").reverse();
+    const minBinary = comparedBinary(binary);
+
+    result.push(minBinary);
     return result;
-  }
-  
-  function comparedBitNumber(number, comparedNumber) {
-    const isEqual = number.filter(
-      (value, index) => value !== comparedNumber[index]
-    ).length;
-  
-    if (number.length === comparedNumber.length) {
-      return isEqual > 2 ? false : true;
-    }
-  
-    const equal = {
-      zero: 0,
-      one: 1,
-      two: 2,
-    };
-  
-    // console.log(front);
-  
-    const endPoint = number.length;
-    switch (isEqual) {
-      case equal.zero: {
-        return backCount(comparedNumber, endPoint, equal.zero);
-      }
-      case equal.one: {
-        return backCount(comparedNumber, endPoint, equal.one);
-      }
-      case equal.two: {
-        return backCount(comparedNumber, endPoint, equal.two);
-      }
-      default:
-        return false;
+  }, []);
+
+  return answer;
+}
+
+function comparedBinary(binary) {
+  if (binary.length === 1) return 2;
+
+  for (let i = 1; i < binary.length; i++) {
+    const now = binary[i] + binary[i - 1];
+    if (now === "11") continue;
+    if (now === "01") {
+      binary[i] = "1";
+      binary[i - 1] = "0";
+      return changeDecimal(binary);
+    } else if (now === "10") {
+      binary[i - 1] = "1";
+      return changeDecimal(binary);
+    } else if (now === "00") {
+      binary[i - 1] = "1";
+      return changeDecimal(binary);
     }
   }
-  
-  function backCount(number, start, count) {
-    let end = 2 - count;
-    for (let i = number.length - 1; i >= start; i--) {
-      if (number[i] === 0) continue;
-      end--;
-      if (end < 0) return false;
-    }
-  
-    return true;
-  }
-  
-  //비교
-  function getMinimumNumber(number) {
-    const bitNumber = changeBit(number);
-    // console.log("시작");
-    // console.log(number, bitNumber);
-    while (number++) {
-      const comparedNumber = changeBit(number);
-      // console.log(number, comparedNumber);
-      const isEqual = comparedBitNumber(bitNumber, comparedNumber);
-      if (isEqual) return number;
-    }
-  }
-  
-  console.log(solution([2, 7]));
-  
+  const unchangedBinary = [
+    ...binary.slice(0, binary.length - 1),
+    0,
+    binary[binary.length - 1],
+  ];
+  return changeDecimal(unchangedBinary);
+}
+
+function changeDecimal(array) {
+  return parseInt(array.reverse().join(""), 2);
+}
+
