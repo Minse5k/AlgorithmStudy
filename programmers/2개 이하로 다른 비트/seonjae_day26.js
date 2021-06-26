@@ -43,3 +43,4 @@ function comparedBinary(binary) {
 function changeDecimal(array) {
   return parseInt(array.reverse().join(""), 2);
 }
+
