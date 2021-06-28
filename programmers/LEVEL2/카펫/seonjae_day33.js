@@ -1,7 +1,7 @@
 function solution(brown, yellow) {
-  //직사각형 => 2*a + 2*b + 4
   const n = Math.sqrt(yellow);
-  if (n - Math.floor(n)) {
+  //직사각형 => 2*a + 2*b + 4
+  if (n - Math.floor(n)) {  //직사각형인지 판별 ex) 2.xxxx - 2 = > 직사각형
     for (let a = 1; a < yellow; a++) {
       if (yellow % a !== 0) continue;
       const b = yellow / a;

@@ -5,7 +5,7 @@ function solution(citations) {
   const answer = citations.reduce((hIndex, paper, index) => {
     if (totalPaper - index >= paper) return paper;
     else {
-      if (hIndex >= totalPaper - index) return hIndex;
+      if (hIndex >= totalPaper - index) return hIndex;  //
       return totalPaper - index;
     }
   }, 0);
