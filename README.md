@@ -54,3 +54,4 @@
 | Day33 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747#) | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 | Day34 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
 | Day35 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
+| Day36 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
