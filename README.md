@@ -56,3 +56,4 @@
 | Day35 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
 | Day36 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | [압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 | Day37 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
+| Day38 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67248) | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
