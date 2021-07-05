@@ -94,7 +94,7 @@ function solution(userId, bannedId) {
     list.push(idList);
     return list;
   }, []);
-  console.log(bannedIdList);
+
   dfs(0, bannedIdList, []);
 
   return overlap.size;
