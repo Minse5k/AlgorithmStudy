@@ -22,7 +22,6 @@ function dfs(visited, row) {
         for(let i = 1; i <= n; i++) {
             visited[row + 1] = i;
             if(isChess(visited, row + 1)) dfs(visited, row + 1);
-            visited[row + 1] = 0;
         }
     }
 }
