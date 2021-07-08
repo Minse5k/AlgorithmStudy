@@ -49,17 +49,6 @@ N(2≤N≤10,000)개의 섬으로 이루어진 나라가 있다. 이들 중 몇 
 - 최대 1억개를 1초안에 찾아야하므로 이분탐색을 이용하였다.
 - 0원 ~ 최대값의 절반으로 `start to end`가 가능하면 `mid + 1 ~ 최댓값`, 불가능하면 `0 ~ mid -1`
 
-
-<span style="color:blue">**-3**</span> 1 2 <span style="color:red">**10**</span> > sum : 7, 값을 줄여야 0에 가까워지므로 오른쪽 포인터를 왼쪽으로 옮긴다.
-
-<span style="color:blue">**-3**</span> 1 <span style="color:red">**2**</span> 10 > sum : -1, 값을 키워야 0에 가까워지므로 왼쪽 포인트로를 오른쪽으로 옮긴다.
-
-- 3 <span style="color:blue">**1**</span> <span style="color:red">**2**</span> 10 > sum : 3, 값을 줄여야 0에 가까워지므로 오른쪽 포인터를 왼쪽으로 옮긴다.
-
-두 포인터가 같은 값을 가리키므로 반복문 종료
-
-- 최소값은 sum의 절댓값이 가장 작은값이 된다.
-
 ### code
 
 ```javascript
