@@ -1,5 +1,5 @@
 ---
-## title : "백준 1939 중량제한(javascript)"
+title : "백준 1939 중량제한(javascript)"
 ---
 
 # Problem 1939
