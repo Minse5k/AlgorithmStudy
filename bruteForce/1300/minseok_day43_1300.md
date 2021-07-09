@@ -40,31 +40,31 @@ B[k]를 출력한다.
 - 우리가 찾는 수는 `1`부터 최대 `N*N`까지 될 수 있다.
 - 우리가 찾으려는 k번째 수를 위해 이분 탐색의 중앙 값이 k개보다 작은지 큰지 판단하였다.
 - k보다 작거나 같은 수는 각 행의 인덱스로 나누어 몫의 크기와 같다.(각 행은 그 행의 첫 인덱스의 배수이기 때문)
-    - ex) n = 4, k = 8 인 경우<br/>
+    - ex) n = 4, k = 8 인 경우 left = 1, right = 16, mid = 8이 된다.<br/>
     <table style="border: none;">
 	    <tbody>
             <tr>
                 <td><span style="color:red">1 2 3 4</span></td>
-                <td>1행 : 8 / 1 = 8</td>
+                <td>1행 : mid(8) / 1 = 8</td>
             </tr>
             <tr>
                 <td><span style="color:red">2 4 6 8</span></td>
-                <td>2행 : 8 / 2 = 4</td>
+                <td>2행 : mid(8) / 2 = 4</td>
             </tr>
             <tr>
                 <td><span style="color:red">3 6</span> 9 12</td>
-                <td>3행 : 8 / 3 = 2</td>
+                <td>3행 : mid(8) / 3 = 2</td>
             </tr>
             <tr>
                 <td><span style="color:red">4 8</span> 12 16</td>
-                <td>4행 : 8 / 4 = 2</td>
+                <td>4행 : mid(8) / 4 = 2</td>
             </tr>
         </tbody>
     </table>
 
     한 행에 최대 4개의 인덱스가 존재하므로 4보다 큰 경우는 4로 바꿔준다.<br/>
-    이렇게 총 10개임을 알 수 있다.
-- 우리가 찾은 개수가 k보다 작으면 left를 mid + 1로 크면 rightfmf mid - 1 로 바꿔준다.
+    이렇게 총 `12개` 즉, 8이라는 값은 `12번째`임을 알 수 있다. 우린 `8번째`의 수를 찾고 싶으므로 범위를 좁혀 2분탐색을 진행한다.
+- 우리가 찾은 개수가 `k`보다 작으면 `left`를 `mid + 1`로 크면 `right`를 `mid - 1`로 바꿔준다.
 ### code
 
 ```javascript
