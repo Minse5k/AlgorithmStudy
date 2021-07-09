@@ -61,3 +61,4 @@
 | Day40 | [암호 만들기](https://www.acmicpc.net/problem/1759) | [-] | [-] |
 | Day41 | [두 용액](https://www.acmicpc.net/problem/2470) | [-] | [-] |
 | Day42 | [중량제한](https://www.acmicpc.net/problem/1939) | [-] | [-] |
+| Day43 | [K번째 수](https://www.acmicpc.net/problem/1300) | [-] | [-] |
