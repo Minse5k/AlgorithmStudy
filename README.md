@@ -65,3 +65,4 @@
 | Day44 | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | [-] | [-] |
 | Day45 | [감시](https://www.acmicpc.net/problem/15683) | [-] | [-] |
 | Day46 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [-] | [-] |
+| Day47 | [문제집](https://www.acmicpc.net/problem/1766) | [-] | [-] |
