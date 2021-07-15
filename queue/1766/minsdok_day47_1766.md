@@ -1,10 +1,10 @@
 ---
-title : "백준 1766 통계학(javascript)"
+title : "백준 1766 문제집(javascript)"
 ---
 # Problem 1766
 
 
-# [통계학](https://www.acmicpc.net/problem/1766)
+# [문제집](https://www.acmicpc.net/problem/1766)
 
 ## 구현, 정렬
 
