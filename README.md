@@ -66,3 +66,4 @@
 | Day45 | [감시](https://www.acmicpc.net/problem/15683) | [-] | [-] |
 | Day46 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [-] | [-] |
 | Day47 | [문제집](https://www.acmicpc.net/problem/1766) | [-] | [-] |
+| Day48 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [-] | [-] |
