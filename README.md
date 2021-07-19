@@ -67,3 +67,4 @@
 | Day46 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [-] | [-] |
 | Day47 | [문제집](https://www.acmicpc.net/problem/1766) | [-] | [-] |
 | Day48 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [-] | [-] |
+| Day49 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [-] | [-] |
