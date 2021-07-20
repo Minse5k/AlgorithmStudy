@@ -4,7 +4,7 @@ title : "백준 2075 N번째 큰 수(javascript)"
 # Problem 2075
 
 
-# [통계학](https://www.acmicpc.net/problem/2075)
+# [N번째 큰 수](https://www.acmicpc.net/problem/2075)
 
 ## 정렬, 우선순위 큐
 
