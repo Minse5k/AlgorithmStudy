@@ -108,4 +108,4 @@ console.log(answer);
 
 말로 하면 되게 쉽지만 그림으로도 그려봤다.
 
-![풀이방법](https://github.com/Minse5k/AlgorithmStudy/tree/main/queue/7662/seonjae_solution.jpg)
+![풀이방법](https://github.com/Minse5k/AlgorithmStudy/tree/main/queue/13975/seonjae_solution.jpg)
