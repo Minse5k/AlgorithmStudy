@@ -108,4 +108,4 @@ console.log(answer);
 
 말로 하면 되게 쉽지만 그림으로도 그려봤다.
 
-![13975%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%B5%E1%84%80%E1%85%B5%203%208071d5bef9e54bd99cfee27b16015fb3/KakaoTalk_20210720_225954559.jpg](/seonjae_image.jpg)
+![풀이방법](https://github.com/Minse5k/AlgorithmStudy/tree/main/queue/7662/seonjae_solution.jpg)
