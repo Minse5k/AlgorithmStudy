@@ -69,3 +69,4 @@
 | Day48 | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | [-] | [-] |
 | Day49 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [-] | [-] |
 | Day50 | [파일 합치기3](https://www.acmicpc.net/problem/13975) | [-] | [-] |
+| Day51 | [작업](https://www.acmicpc.net/problem/2056) | [-] | [-] |
