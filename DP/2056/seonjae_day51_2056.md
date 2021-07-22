@@ -60,4 +60,6 @@ console.log(answer);
 
 원인은 나는 최소값을 내보내지 않았기 때문인거 같다. 바뀐 풀이도 틀렸기 때문에 나는 다른 사람의 코드를 참고했다. 나의 풀이와 이 풀이의 다른점은 시간도 따로 배열로 받았던 것이다. 배열을 따로 받으니 시간을 쌓는 과정이 훨씬 깔끔해 졌다.  
 
+![풀이방법](https://github.com/Minse5k/AlgorithmStudy/tree/main/DP/2056/seonjae_solved.md)
+
 > [https://www.acmicpc.net/board/view/51698](https://it-earth.tistory.com/111)
