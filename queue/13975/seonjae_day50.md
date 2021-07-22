@@ -82,17 +82,21 @@ let answer = "";
 
 for (let i = 0; i < T; i++) {
   const arr = input[i * 2 + 1].split(" ");
+
   const priority = arr.reduce((min, num) => {
     min.input(parseInt(num));
     return min;
   }, new MinHeap());
+
   let sum = 0;
+
   while (priority.size > 1) {
     const prev = priority.pull();
     const next = priority.pull();
     sum += prev + next;
     priority.input(prev + next);
   }
+
   answer += sum + "\n";
 }
 
