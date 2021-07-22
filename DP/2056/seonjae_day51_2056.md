@@ -15,6 +15,7 @@ const times = new Array(N).fill(0);
 const graph = Array.from(Array(N), () => []);
 const dp = new Array(N).fill(0);
 const queue = [];
+
 for (let i = 1; i < N; i++) {
   const [time, count, ...rest] = input[i].split(" ");
   times[i] = dp[i] = parseInt(time);
