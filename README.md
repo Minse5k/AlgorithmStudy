@@ -72,3 +72,4 @@
 | Day51 | [작업](https://www.acmicpc.net/problem/2056) | [-] | [-] |
 | Day52 | [LCS](https://www.acmicpc.net/problem/9251) | [-] | [-] |
 | Day53 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | [-] | [-] |
+| Day54 | [파티](https://www.acmicpc.net/problem/1238) | [-] | [-] |
