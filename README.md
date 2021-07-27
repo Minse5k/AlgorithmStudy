@@ -73,3 +73,4 @@
 | Day52 | [LCS](https://www.acmicpc.net/problem/9251) | [-] | [-] |
 | Day53 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | [-] | [-] |
 | Day54 | [파티](https://www.acmicpc.net/problem/1238) | [-] | [-] |
+| Day55 | [최단경로](https://www.acmicpc.net/problem/1753) | [-] | [-] |
