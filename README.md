@@ -75,3 +75,4 @@
 | Day54 | [파티](https://www.acmicpc.net/problem/1238) | [-] | [-] |
 | Day55 | [최단경로](https://www.acmicpc.net/problem/1753) | [-] | [-] |
 | Day56 | [운동](https://www.acmicpc.net/problem/1956) | [-] | [-] |
+| Day57 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [-] | [-] |
