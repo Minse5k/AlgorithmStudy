@@ -92,6 +92,7 @@ const dijkstra = (start) => {
 
     for (const [next, nextCost] of graph[now]) {
       if (distance[next] > nowCost + nextCost) {
+        
         distance[next] = nowCost + nextCost;
         priorityQ.input({ node: next, cost: distance[next] });
       }
