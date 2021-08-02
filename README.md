@@ -15,6 +15,7 @@
 - 웹 개발자가 되기위해 js를 통해 풀이
 - Github 활용
 - 한문제는 직접 코딩하고 남은 두문제는 논리만 풀이한다.(적은시간 최대한 많은 문제를 접해보기 유이하다고 생각)
+- with. sunjae95(Day1 ~ Day 57)
 
 ## :green_book: Day Study
 |     |     직접 코딩 1   |    직접 코딩 2   |    직접 코딩 3   |
@@ -77,5 +78,5 @@
 | Day56 | [운동](https://www.acmicpc.net/problem/1956) | [-] | [-] |
 | Day57 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [-] | [-] |
 | Day58 | [치즈](https://www.acmicpc.net/problem/2636) | [-] | [-] |
+| Day59 | [오큰수](https://www.acmicpc.net/problem/17298) | [-] | [-] |
 
-with. sunjae95(Day1 ~ Day 57)
