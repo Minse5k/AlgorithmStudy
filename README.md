@@ -79,4 +79,4 @@
 | Day57 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [-] | [-] |
 | Day58 | [치즈](https://www.acmicpc.net/problem/2636) | [-] | [-] |
 | Day59 | [오큰수](https://www.acmicpc.net/problem/17298) | [-] | [-] |
-
+| Day60 | [스도쿠](https://www.acmicpc.net/problem/2580) | [-] | [-] |
