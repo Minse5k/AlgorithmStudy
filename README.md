@@ -80,3 +80,4 @@
 | Day58 | [치즈](https://www.acmicpc.net/problem/2636) | [-] | [-] |
 | Day59 | [오큰수](https://www.acmicpc.net/problem/17298) | [-] | [-] |
 | Day60 | [스도쿠](https://www.acmicpc.net/problem/2580) | [-] | [-] |
+| Day61 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | [-] | [-] |
