@@ -81,4 +81,4 @@
 | Day59 | [오큰수](https://www.acmicpc.net/problem/17298) | [-] | [-] |
 | Day60 | [스도쿠](https://www.acmicpc.net/problem/2580) | [-] | [-] |
 | Day61 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | [-] | [-] |
-| Day62 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [-] | [-] |
+| Day62 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [-] | |
