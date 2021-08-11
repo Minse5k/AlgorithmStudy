@@ -59,7 +59,7 @@
 | Day37 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686) | [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
 | Day38 | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67248) | [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
 | Day39 | [N-Queen](https://www.acmicpc.net/problem/9663) |  |  |
-| Day40 | [암호 만들기](https://www.acmicpc.net/problem/1759) | [-] | [-] |
+| Day40 | [암호 만들기](https://www.acmicpc.net/problem/1759) |  |  |
 | Day41 | [두 용액](https://www.acmicpc.net/problem/2470) | [-] | [-] |
 | Day42 | [중량제한](https://www.acmicpc.net/problem/1939) | [-] | [-] |
 | Day43 | [K번째 수](https://www.acmicpc.net/problem/1300) | [-] | [-] |
