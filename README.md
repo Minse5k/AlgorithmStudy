@@ -83,3 +83,4 @@
 | Day61 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | [-] | [-] |
 | Day62 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [-] | |
 | Day63 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | [-] | |
+| Day64 | [후위 표기식](https://www.acmicpc.net/problem/1918) | [-] | |
