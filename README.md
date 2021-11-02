@@ -17,7 +17,7 @@
 - 한문제는 직접 코딩하고 남은 두문제는 논리만 풀이한다.(적은시간 최대한 많은 문제를 접해보기 유이하다고 생각)
 - with. sunjae95(Day1 ~ Day 57)
 
-## :green_book: Day Study
+## :green_book: Daily Study
 |     |     직접 코딩 1   |    직접 코딩 2   |    직접 코딩 3   |
 | --- | :---------------: | :---------------: | :---------------: |
 | Day1 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [괄호](https://www.acmicpc.net/problem/9012) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) |
@@ -85,6 +85,7 @@
 | Day63 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | [-] | |
 | Day64 | [후위 표기식](https://www.acmicpc.net/problem/1918) | [-] | |
 
+## 📘: Weekly Study
 |     |     문제 1   |    문제 2   |    문제 3   |
 | --- | :---------------: | :---------------: | :---------------: |
 | Week1 | [뱀](https://www.acmicpc.net/problem/3190) | [톱니바퀴](https://www.acmicpc.net/problem/14891) | [치킨 배달](https://www.acmicpc.net/problem/15686) |
