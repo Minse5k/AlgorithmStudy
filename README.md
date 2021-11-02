@@ -84,3 +84,7 @@
 | Day62 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [-] | |
 | Day63 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | [-] | |
 | Day64 | [후위 표기식](https://www.acmicpc.net/problem/1918) | [-] | |
+
+|     |     문제 1   |    문제 2   |    문제 3   |
+| --- | :---------------: | :---------------: | :---------------: |
+| Week1 | [뱀](https://www.acmicpc.net/problem/3190) | [톱니바퀴](https://www.acmicpc.net/problem/14891) | [치킨 배달]https://www.acmicpc.net/problem/15686) |
