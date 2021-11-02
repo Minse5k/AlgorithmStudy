@@ -87,4 +87,4 @@
 
 |     |     문제 1   |    문제 2   |    문제 3   |
 | --- | :---------------: | :---------------: | :---------------: |
-| Week1 | [뱀](https://www.acmicpc.net/problem/3190) | [톱니바퀴](https://www.acmicpc.net/problem/14891) | [치킨 배달]https://www.acmicpc.net/problem/15686) |
+| Week1 | [뱀](https://www.acmicpc.net/problem/3190) | [톱니바퀴](https://www.acmicpc.net/problem/14891) | [치킨 배달](https://www.acmicpc.net/problem/15686) |
