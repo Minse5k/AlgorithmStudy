@@ -89,4 +89,4 @@
 |     |     문제 1   |    문제 2   |    문제 3   |
 | --- | :---------------: | :---------------: | :---------------: |
 | Week1 | [뱀](https://www.acmicpc.net/problem/3190) | [톱니바퀴](https://www.acmicpc.net/problem/14891) | [치킨 배달](https://www.acmicpc.net/problem/15686) |
-| Week2 | [조이스틱] (https://programmers.co.kr/learn/courses/30/lessons/42860) | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |
+| Week2 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |
